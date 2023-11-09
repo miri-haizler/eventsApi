@@ -6,10 +6,9 @@
         public string Title { get; set; }
         public DateTime Start { get; set; }
         public DateTime End { get; set; }
-
-        //public Event(DateTime Start)
+        //public Event(int id , string title , DateTime start,DateTime end )
         //{
-        //    this.Start = Start;
+
         //}
     }
 }
