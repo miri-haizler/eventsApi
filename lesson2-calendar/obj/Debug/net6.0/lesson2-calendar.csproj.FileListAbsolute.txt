@@ -25,3 +25,35 @@ Y:\Groups\Group_5\הייזלר  מרים\Dotnet\lesson2-calendar\lesson2-calenda
 Y:\Groups\Group_5\הייזלר  מרים\Dotnet\lesson2-calendar\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.pdb
 Y:\Groups\Group_5\הייזלר  מרים\Dotnet\lesson2-calendar\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.genruntimeconfig.cache
 Y:\Groups\Group_5\הייזלר  מרים\Dotnet\lesson2-calendar\lesson2-calendar\obj\Debug\net6.0\ref\lesson2-calendar.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\lesson2-calendar.exe
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\lesson2-calendar.deps.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\lesson2-calendar.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\lesson2-calendar.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\lesson2-calendar.pdb
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets\msbuild.lesson2-calendar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets\msbuild.build.lesson2-calendar.props
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lesson2-calendar.props
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lesson2-calendar.props
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\scopedcss\bundle\lesson2-calendar.styles.css
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\refint\lesson2-calendar.dll
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.pdb
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\lesson2-calendar.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות שנה ב\Dotnet\eventsApi\lesson2-calendar\obj\Debug\net6.0\ref\lesson2-calendar.dll

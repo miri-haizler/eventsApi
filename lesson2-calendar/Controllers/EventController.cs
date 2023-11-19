@@ -10,17 +10,18 @@ namespace lesson2_calendar.Controllers
     [ApiController]
     public  class EventController : ControllerBase
     {
-     private  DataContext context;
-        public EventController(DataContext Mycontext)
+        private readonly IDataContext _dataContext;
+
+        public EventController(IDataContext dataContext)
         {
-            context=Mycontext;
+            _dataContext = dataContext;
         }
         //הצגה
         // GET: api/<EventController>
         [HttpGet]
-        public IEnumerable<Event> Get()
+        public ActionResult<Event> Get()
         {
-            return context.events;
+            return Ok(_dataContext.events);
         }
 
              //הוספה
@@ -28,7 +29,7 @@ namespace lesson2_calendar.Controllers
         [HttpPost]
         public void Post([FromBody] Event newEvent)
         {
-            context.events.Add(newEvent);
+            _dataContext.events.Add(newEvent);
             return ;
         }
 
@@ -37,7 +38,7 @@ namespace lesson2_calendar.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Event upDateEvent)
         {
-            var eve = context.events.Find(e=>e.Id == id);
+            var eve = _dataContext.events.Find(e=>e.Id == id);
             eve.Title=upDateEvent.Title;
             return;
         }
@@ -46,8 +47,8 @@ namespace lesson2_calendar.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            var eve = context.events.Find(e => e.Id == id);
-            context.events.Remove(eve);
+            var eve = _dataContext.events.Find(e => e.Id == id);
+            _dataContext.events.Remove(eve);
             return;
         }
 
